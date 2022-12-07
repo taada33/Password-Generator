@@ -11,6 +11,7 @@ N/A
 
 ## Usage
 
+![Website Screenshot](screenshot.png)
 
 To view the completed website, please visit [https://taada33.github.io/Password-Generator/](https://taada33.github.io/Password-Generator/).
 
