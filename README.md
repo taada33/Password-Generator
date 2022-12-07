@@ -2,7 +2,7 @@
 
 ## Description
 
-This application will generate as password given a specific length, as well as which character sets to use to generate it.
+This application will generate as password given a specific length, as well as which character sets to use to generate it. The prompts will filter out password requests less than 8 characters or more than 128 characters.
 
 
 ## Installation
